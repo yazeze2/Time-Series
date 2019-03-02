@@ -1,13 +1,13 @@
 # Time Series Analysis in Python - Predict Traffic on a New Mode of Transport
 
 
-## Contents
+## Content
 
 - **Understanding the data**
-  - Hypothesis Generation
+  - Hypotheses Generation
   - Data Pre-Processing
   - Extracting Features
-  - Exploratory Analysis
+  - Exploratory Analysis (Investigate the hypotheses generated)
   - Splitting data into training and testing data
   
 - **Model Building**
@@ -15,5 +15,12 @@
   - Holt Winter's Model
   - ARIMA Model
   - SARIMA Model
+  
+- **Tools Required**
+  - Python 3.6 is used during development and the following tools are required to run the code provided in the jupyter notebook
+    - Numpy
+    - Pandas
+    - Matplotlib    
+    - Statsmodel
   
  
