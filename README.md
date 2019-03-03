@@ -4,13 +4,16 @@
 ## Content
 
 - **Understanding the data**
-  - Hypotheses Generation
-  - Data Pre-Processing
-  - Extracting Features
+  - Hypotheses Generation - The following logical traffic hypotheses are generated to investgate the data
+    - Traffic will increase as the years pass by (population increase overtime)
+    - Traffic will be high from May to October (Tourist influx)
+    - Traffic on weekdays will be more
+    - Traffic during the peak hours will be high
+  - Data Pre-Processing & Extracting Features
   - Exploratory Analysis (Investigate the hypotheses generated)
-  - Splitting data into training and testing data
+  - Splitting data into training and validation data
   
-- **Model Building**
+- **Model Techniques Explored in this Project**
   - Holt's Linear Trend Model
   - Holt Winter's Model
   - ARIMA Model
